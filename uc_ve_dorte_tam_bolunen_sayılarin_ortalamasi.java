@@ -18,7 +18,7 @@ public class uc_ve_dorte_tam_bolunen_sayılarin_ortalamasi {
         double k =0;
         k =toplam / adet;
         System.out.println("3'e ve 4'e tam bölüne bilen sayı adeti :"+adet);
-        System.out.println("Kurula uyan sayıların ortalaması :"+k);
+        System.out.println("Kurula uyan sayıların ortalaclesı :"+k);
 
     }
 }
